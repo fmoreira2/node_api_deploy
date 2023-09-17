@@ -4,7 +4,7 @@
   "description": "api em node, testando deploy",
   "main": "index.js",
   "engines": {
-    "node": "18"
+    "node": "18.15.0"
   },
   "scripts": {
     "dev": "tsx src/server.ts",
